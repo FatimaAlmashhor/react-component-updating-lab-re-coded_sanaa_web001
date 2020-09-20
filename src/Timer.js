@@ -11,7 +11,7 @@ class Timer extends Component {
   }
 
   //Your code here
-componentDidMount(){
+componentDidUpdate(){
   this.componentDidMount();
 }
 shouldComponentUpdate(){
