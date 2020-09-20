@@ -14,6 +14,9 @@ class Timer extends Component {
 componentDidMount(){
   this.componentDidMount();
 }
+componentDidUpdate(){
+  
+}
   componentDidMount() {
     this.interval = setInterval(
       this.clockTick,
