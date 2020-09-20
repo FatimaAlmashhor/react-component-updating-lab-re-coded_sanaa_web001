@@ -15,7 +15,7 @@ componentDidMount(){
   this.componentDidMount();
 }
 componentDidUpdate(){
-
+  return 0;
 }
   componentDidMount() {
     this.interval = setInterval(
